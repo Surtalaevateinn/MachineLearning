@@ -1,0 +1,7 @@
+import sys
+import torch
+
+print("sys.executable =", sys.executable)
+print("torch =", torch.__version__)
+print("cuda available =", torch.cuda.is_available())
+print("gpu =", torch.cuda.get_device_name(0) if torch.cuda.is_available() else None)

@@ -1,0 +1,25 @@
+image: 241346215_037e18403a.jpg
+true: child
+pred: horse
+caption: A horse mascot stands in front of several kids .
+------------------------------------------------------------
+image: 2652155912_8ba5426790.jpg
+true: car
+pred: ball
+caption: a red car is leaping through a ball of fire .
+------------------------------------------------------------
+image: 3404408360_430f73b034.jpg
+true: woman
+pred: child
+caption: "Adults and children share in the looking at something , and some young ladies stand to the side ."
+------------------------------------------------------------
+image: 3465396606_5ba1574128.jpg
+true: dog
+pred: woman
+caption: A blonde woman wearing a white top and black bottoms pushes a black stroller while a brunette male wearing a gray t-shirt and white shorts walks a brown dog .
+------------------------------------------------------------
+image: 3627216820_4952bacbcb.jpg
+true: ball
+pred: woman
+caption: two terriers jumping after a tennis ball in a park
+------------------------------------------------------------

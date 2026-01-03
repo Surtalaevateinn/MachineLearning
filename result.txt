@@ -1,0 +1,50 @@
+D:\miniconda3\envs\mm_flickr8k\python.exe D:\MachineLearning\ML_flickr8k\main.py 
+device: cuda
+[image] raw_pairs=40455 hits_in_first_2000=1685
+[image] train_samples=25280 val_samples=6244 vocab=4265
+[image] train_class_counts={'dog': 7853, 'man': 6220, 'woman': 2420, 'child': 2168, 'boy': 2955, 'girl': 2581, 'bike': 392, 'car': 215, 'ball': 339, 'horse': 137}
+[image] val_class_counts={'dog': 1706, 'man': 1646, 'woman': 610, 'child': 589, 'boy': 753, 'girl': 686, 'bike': 101, 'car': 54, 'ball': 68, 'horse': 31}
+[image][epoch 1] train loss 1.2159 acc 0.5599 | val loss 1.2368 acc 0.5243
+[image][epoch 2] train loss 1.1212 acc 0.5909 | val loss 1.1978 acc 0.5679
+[image][epoch 3] train loss 1.0991 acc 0.5967 | val loss 1.2044 acc 0.5713
+[image][epoch 4] train loss 1.0634 acc 0.6093 | val loss 1.2004 acc 0.5770
+D:\MachineLearning\ML_flickr8k\main.py:180: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+[image][epoch 5] train loss 1.0549 acc 0.6098 | val loss 1.2372 acc 0.5538
+[image] best_val_acc=0.577034 saved=outputs\best_image.pt
+  model.load_state_dict(torch.load(best_path, map_location=device))
+[image] error_examples_saved=outputs\errors_image.txt
+[image] confusion_matrix_saved=outputs\confusion_image.png
+[image] curves_saved=outputs\curves_image_loss.png and _acc.png
+[text] raw_pairs=40455 hits_in_first_2000=1685
+[text] train_samples=25280 val_samples=6244 vocab=4265
+[text] train_class_counts={'dog': 7853, 'man': 6220, 'woman': 2420, 'child': 2168, 'boy': 2955, 'girl': 2581, 'bike': 392, 'car': 215, 'ball': 339, 'horse': 137}
+[text] val_class_counts={'dog': 1706, 'man': 1646, 'woman': 610, 'child': 589, 'boy': 753, 'girl': 686, 'bike': 101, 'car': 54, 'ball': 68, 'horse': 31}
+[text][epoch 1] train loss 0.3587 acc 0.8646 | val loss 0.0354 acc 0.9883
+[text][epoch 2] train loss 0.0289 acc 0.9910 | val loss 0.0127 acc 0.9960
+[text][epoch 3] train loss 0.0079 acc 0.9983 | val loss 0.0091 acc 0.9982
+[text][epoch 4] train loss 0.0157 acc 0.9967 | val loss 0.0044 acc 0.9989
+[text][epoch 5] train loss 0.0021 acc 0.9996 | val loss 0.0058 acc 0.9992
+D:\MachineLearning\ML_flickr8k\main.py:180: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load(best_path, map_location=device))
+[text] best_val_acc=0.999199 saved=outputs\best_text.pt
+[text] error_examples_saved=outputs\errors_text.txt
+[text] confusion_matrix_saved=outputs\confusion_text.png
+[text] curves_saved=outputs\curves_text_loss.png and _acc.png
+[fusion] raw_pairs=40455 hits_in_first_2000=1685
+[fusion] train_samples=25280 val_samples=6244 vocab=4265
+[fusion] train_class_counts={'dog': 7853, 'man': 6220, 'woman': 2420, 'child': 2168, 'boy': 2955, 'girl': 2581, 'bike': 392, 'car': 215, 'ball': 339, 'horse': 137}
+[fusion] val_class_counts={'dog': 1706, 'man': 1646, 'woman': 610, 'child': 589, 'boy': 753, 'girl': 686, 'bike': 101, 'car': 54, 'ball': 68, 'horse': 31}
+[fusion][epoch 1] train loss 0.4276 acc 0.8538 | val loss 0.0257 acc 0.9926
+[fusion][epoch 2] train loss 0.0285 acc 0.9931 | val loss 0.0183 acc 0.9946
+[fusion][epoch 3] train loss 0.0315 acc 0.9934 | val loss 0.0180 acc 0.9962
+train:   0%|          | 0/1580 [00:00<?, ?it/s][fusion][epoch 4] train loss 0.0204 acc 0.9962 | val loss 0.0307 acc 0.9942
+D:\MachineLearning\ML_flickr8k\main.py:180: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  model.load_state_dict(torch.load(best_path, map_location=device))
+[fusion][epoch 5] train loss 0.0253 acc 0.9956 | val loss 0.0251 acc 0.9958
+[fusion] best_val_acc=0.996156 saved=outputs\best_fusion.pt
+[fusion] error_examples_saved=outputs\errors_fusion.txt
+[fusion] confusion_matrix_saved=outputs\confusion_fusion.png
+[fusion] curves_saved=outputs\curves_fusion_loss.png and _acc.png
+final_results: {'image': 0.5770339525944908, 'text': 0.9991992312620115, 'fusion': 0.9961563100576554}
+
+Process finished with exit code 0

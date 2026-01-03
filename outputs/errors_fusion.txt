@@ -1,0 +1,120 @@
+image: 2208310655_a3d83080c5.jpg
+true: woman
+pred: boy
+caption: a boy is kissing a woman on the cheek next to a girl who is wide eyed and sticking out her tongue .
+------------------------------------------------------------
+image: 2208310655_a3d83080c5.jpg
+true: woman
+pred: boy
+caption: Boy kissing woman and girl sticking out her tongue
+------------------------------------------------------------
+image: 2449446913_28fa5b7c75.jpg
+true: ball
+pred: woman
+caption: "Group of people on a ball team wearing blue and white uniforms some of gloves on their hands one is wearing red shoes , tall trees are in the background ."
+------------------------------------------------------------
+image: 2652155912_8ba5426790.jpg
+true: car
+pred: ball
+caption: a red car is leaping through a ball of fire .
+------------------------------------------------------------
+image: 282960970_574aa1ba49.jpg
+true: horse
+pred: bike
+caption: A person wearing jeans sits on top of a horse saddle .
+------------------------------------------------------------
+image: 282960970_574aa1ba49.jpg
+true: horse
+pred: bike
+caption: The person is sitting on top of a horse .
+------------------------------------------------------------
+image: 2871962580_b85ce502ba.jpg
+true: ball
+pred: child
+caption: An american footballer in a white strip who is carrying the ball is being pursued by another player in a black strip .
+------------------------------------------------------------
+image: 3052104757_d1cf646935.jpg
+true: car
+pred: bike
+caption: A four wheeler jumping cars .
+------------------------------------------------------------
+image: 3052104757_d1cf646935.jpg
+true: car
+pred: bike
+caption: A giant monster truck leaps over crushed cars and into the air inside the arena .
+------------------------------------------------------------
+image: 3052104757_d1cf646935.jpg
+true: car
+pred: bike
+caption: A monster truck in the air above demolished cars .
+------------------------------------------------------------
+image: 3243094580_ccd01679f5.jpg
+true: car
+pred: bike
+caption: A street light lit bridge with a cyclist and some cars .
+------------------------------------------------------------
+image: 3247423890_163f00a2cb.jpg
+true: ball
+pred: bike
+caption: A person is looking up and juggling seven balls .
+------------------------------------------------------------
+image: 3320756943_9d004f9824.jpg
+true: child
+pred: man
+caption: The people under the canopy are sitting on a bench ; the mother is taking a picture of a child with her cellphone .
+------------------------------------------------------------
+image: 3404408360_430f73b034.jpg
+true: woman
+pred: child
+caption: "Adults and children share in the looking at something , and some young ladies stand to the side ."
+------------------------------------------------------------
+image: 3465396606_5ba1574128.jpg
+true: dog
+pred: woman
+caption: A blonde woman wearing a white top and black bottoms pushes a black stroller while a brunette male wearing a gray t-shirt and white shorts walks a brown dog .
+------------------------------------------------------------
+image: 3681056426_fbd6c0c92c.jpg
+true: horse
+pred: bike
+caption: A professional horse race
+------------------------------------------------------------
+image: 3681056426_fbd6c0c92c.jpg
+true: horse
+pred: bike
+caption: Four jockeys and their horses race towards the finish line at a racetrack .
+------------------------------------------------------------
+image: 3681056426_fbd6c0c92c.jpg
+true: horse
+pred: bike
+caption: Horses with jockeys participate in a race .
+------------------------------------------------------------
+image: 3681056426_fbd6c0c92c.jpg
+true: horse
+pred: bike
+caption: Jockeys ride their horses down the track during a horse race .
+------------------------------------------------------------
+image: 3681056426_fbd6c0c92c.jpg
+true: horse
+pred: bike
+caption: Three horses and their jockeys compete in a race .
+------------------------------------------------------------
+image: 531261613_f1a045cd75.jpg
+true: horse
+pred: bike
+caption: A group of people are riding horses on a wooded trail .
+------------------------------------------------------------
+image: 531261613_f1a045cd75.jpg
+true: horse
+pred: bike
+caption: Group of horse riders travel through the woods .
+------------------------------------------------------------
+image: 531261613_f1a045cd75.jpg
+true: horse
+pred: bike
+caption: Several people are riding horses on a wooded trail .
+------------------------------------------------------------
+image: 839295615_bb9baf2f95.jpg
+true: car
+pred: bike
+caption: A person in brown and two older cars in front of a white building .
+------------------------------------------------------------

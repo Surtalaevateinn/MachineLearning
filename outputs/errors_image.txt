@@ -1,0 +1,150 @@
+image: 1007320043_627395c3d8.jpg
+true: girl
+pred: child
+caption: A little girl climbing on red roping .
+------------------------------------------------------------
+image: 1007320043_627395c3d8.jpg
+true: girl
+pred: child
+caption: A little girl in pink climbs a rope bridge at the park .
+------------------------------------------------------------
+image: 1052358063_eae6744153.jpg
+true: boy
+pred: man
+caption: A boy takes a jump on his skateboard while another boy with a skateboard watches .
+------------------------------------------------------------
+image: 1052358063_eae6744153.jpg
+true: child
+pred: man
+caption: A child is performing a skateboard trick while another child with a skateboard leans on a wall .
+------------------------------------------------------------
+image: 1052358063_eae6744153.jpg
+true: boy
+pred: man
+caption: A little boy skateboarder is doing a trick on his board while another young skateboarder watches .
+------------------------------------------------------------
+image: 1052358063_eae6744153.jpg
+true: boy
+pred: man
+caption: a young boy skateboarder jumping on a platform on a skateboard .
+------------------------------------------------------------
+image: 1055623002_8195a43714.jpg
+true: child
+pred: girl
+caption: A group of four children wearing pajamas have a pillow fight .
+------------------------------------------------------------
+image: 1055623002_8195a43714.jpg
+true: child
+pred: girl
+caption: A group of kids have a pillow-fight .
+------------------------------------------------------------
+image: 1055623002_8195a43714.jpg
+true: child
+pred: girl
+caption: A group of young children playing pillow fight on a bed .
+------------------------------------------------------------
+image: 1055623002_8195a43714.jpg
+true: child
+pred: girl
+caption: Children having a pillow fight .
+------------------------------------------------------------
+image: 1055623002_8195a43714.jpg
+true: child
+pred: girl
+caption: Four children are having a pillow fight .
+------------------------------------------------------------
+image: 1057089366_ca83da0877.jpg
+true: child
+pred: boy
+caption: A child jumps off a high diving board into the pool .
+------------------------------------------------------------
+image: 1057089366_ca83da0877.jpg
+true: child
+pred: boy
+caption: A kid jumps off the diving board and into the swimming pool below .
+------------------------------------------------------------
+image: 1057089366_ca83da0877.jpg
+true: child
+pred: boy
+caption: A little kid is jumping off a high dive at the pool .
+------------------------------------------------------------
+image: 1075716537_62105738b4.jpg
+true: child
+pred: man
+caption: A child with a helmet on his head rides a bike .
+------------------------------------------------------------
+image: 1075716537_62105738b4.jpg
+true: boy
+pred: man
+caption: A little boy rides a bike down a hill on a miniature dirt bike .
+------------------------------------------------------------
+image: 1075716537_62105738b4.jpg
+true: boy
+pred: man
+caption: A young boy in a helmet rides a bike on the road .
+------------------------------------------------------------
+image: 1075716537_62105738b4.jpg
+true: boy
+pred: man
+caption: The little boy rides his bicycle in a race .
+------------------------------------------------------------
+image: 1075716537_62105738b4.jpg
+true: boy
+pred: man
+caption: The young boy pedals quickly at a BMX race .
+------------------------------------------------------------
+image: 10815824_2997e03d76.jpg
+true: girl
+pred: dog
+caption: A blonde horse and a blonde girl in a black sweatshirt are staring at a fire in a barrel .
+------------------------------------------------------------
+image: 10815824_2997e03d76.jpg
+true: girl
+pred: dog
+caption: A girl and her horse stand by a fire .
+------------------------------------------------------------
+image: 10815824_2997e03d76.jpg
+true: girl
+pred: dog
+caption: A girl holding a horse 's lead behind a fire .
+------------------------------------------------------------
+image: 10815824_2997e03d76.jpg
+true: man
+pred: dog
+caption: "A man , and girl and two horses are near a contained fire ."
+------------------------------------------------------------
+image: 10815824_2997e03d76.jpg
+true: horse
+pred: dog
+caption: Two people and two horses watching a fire .
+------------------------------------------------------------
+image: 1088767354_2acee738cf.jpg
+true: woman
+pred: man
+caption: A woman wearing a red costume looks at two other people standing on a street .
+------------------------------------------------------------
+image: 1088767354_2acee738cf.jpg
+true: woman
+pred: man
+caption: A young woman in a red sequined costume and feather stands on the sidewalk .
+------------------------------------------------------------
+image: 1088767354_2acee738cf.jpg
+true: girl
+pred: man
+caption: The girl in the salmon colored bikini is standing next to two young people ; one is wearing a black outfit and the other is drinking pop .
+------------------------------------------------------------
+image: 1088767354_2acee738cf.jpg
+true: woman
+pred: man
+caption: Two young people are approached by a flamboyant young woman dressed in a red bikini and a red feathered headress .
+------------------------------------------------------------
+image: 1093737381_b313cd49ff.jpg
+true: woman
+pred: man
+caption: A woman in a blue dress stands with a chalk portrait of two children playing by a stream .
+------------------------------------------------------------
+image: 1093737381_b313cd49ff.jpg
+true: woman
+pred: man
+caption: A woman standing in front of a chalk drawing
+------------------------------------------------------------
